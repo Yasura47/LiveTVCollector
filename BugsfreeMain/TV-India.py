@@ -255,7 +255,7 @@ class M3UCollector:
         return filepath
 
 def main():
-    # Specific M3U sources (12 sources)
+    # Specific M3U sources
     source_urls = [        
         "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u",
@@ -266,6 +266,28 @@ def main():
     collector = M3UCollector(country="India", check_links=False)
     collector.process_sources(source_urls)
     
+    # Custom Tamil and Government Channels
+    custom_channels = [
+        # News
+        {'name': 'News7 Tamil', 'logo': 'https://i.imgur.com/8QGjR2m.png', 'group': 'Tamil News', 'url': 'https://news7tamil.akamaized.net/hls/live/2033506/news7tamil/index.m3u8', 'source': 'Manual'},
+        {'name': 'Thanthi TV', 'logo': 'https://i.imgur.com/UoYpY6G.png', 'group': 'Tamil News', 'url': 'https://vst-th-news.akamaized.net/hls/live/2042730/ThanthiTV/index.m3u8', 'source': 'Manual'},
+        {'name': 'Puthiya Thalaimurai', 'logo': 'https://i.imgur.com/6U4M77m.png', 'group': 'Tamil News', 'url': 'https://pttv.akamaized.net/hls/live/2032486/pttv/index.m3u8', 'source': 'Manual'},
+        
+        # Entertainment
+        {'name': 'Sun TV HD', 'logo': 'https://i.imgur.com/3q8YfV0.png', 'group': 'Tamil', 'url': 'https://livestream10.sunnxt.com/DolbyVision/SunTV_HDR/SunTV_HDR_Endpoints/SunTV-HDR10-IN-index.m3u8', 'source': 'Manual'},
+        {'name': 'Murasu TV', 'logo': 'https://i.imgur.com/uGzX6L1.png', 'group': 'Tamil Entertainment', 'url': 'http://103.199.161.254/Content/murasutv/Live/Channel(MurasuTV)/index.m3u8', 'source': 'Manual'},
+        {'name': 'Makkal TV', 'logo': 'https://i.imgur.com/V9KzE7g.png', 'group': 'Tamil', 'url': 'http://103.199.160.85/makkaltv/live/playlist.m3u8', 'source': 'Manual'},
+        
+        # Government
+        {'name': 'DD Podhigai', 'logo': 'https://i.imgur.com/lM5nC2y.png', 'group': 'Tamil Government', 'url': 'https://ddpodhigai.akamaized.net/hls/live/2033510/ddpodhigai/index.m3u8', 'source': 'Manual'},
+        {'name': 'Sansad TV HD', 'logo': 'https://upload.wikimedia.org/wikipedia/commons/2/22/Sansad_TV_logo.png', 'group': 'Government', 'url': 'https://sansad-tv.akamaized.net/hls/live/2033363/sansadtv/sansadtv_hd/chunklist.m3u8', 'source': 'Manual'}
+    ]
+
+    for channel in custom_channels:
+        if channel['url'] not in collector.seen_urls:
+            collector.channels[channel['group']].append(channel)
+            collector.seen_urls.add(channel['url'])
+
     # Export files
     collector.export_m3u("LiveTV.m3u")
     collector.export_txt("LiveTV.txt")
@@ -274,8 +296,7 @@ def main():
     
     total_channels = sum(len(ch) for ch in collector.channels.values())
     mumbai_time = datetime.now(pytz.timezone('Asia/Kolkata'))
-    logging.info(f"[{mumbai_time}] Collected {total_channels} unique channel for India")
-    logging.info(f"Groups found: {len(collector.channels)}")
+    logging.info(f"[{mumbai_time}] Collected {total_channels} unique channels for India")
 
 if __name__ == "__main__":
     main()
