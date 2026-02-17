@@ -29,11 +29,6 @@ URL: https://media2.streambrothers.com:1936/8122/8122/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Colors Cineplex Superhits
-URL: http://163.61.227.29:8000/play/a04c/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: LOTUS MACAU
 URL: http://163.61.227.29:8000/play/a03u/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -189,11 +184,6 @@ URL: http://163.61.227.29:8000/play/a01i/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: DISCOVERY TURBO
-URL: http://163.61.227.29:8000/play/a01w/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: National Geographic
 URL: http://151.80.18.177:86/National_Geo_HD/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -294,11 +284,6 @@ URL: http://163.61.227.29:8000/play/a03w/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: GUBBARE
-URL: https://epiconvh.akamaized.net/live/gubbare/master.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: KIDS ZONE
 URL: http://163.61.227.29:8000/play/a03x/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -328,6 +313,21 @@ Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/l
 --------------------------------------------------
 Name: X4 (USA)
 URL: http://206.212.244.71:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/215686
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
+--------------------------------------------------
+Name: EROLUXE GAYS (USA)
+URL: http://u.vipl.one/high/hc6s5fzmde/1691.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
+--------------------------------------------------
+Name: EROLUXE BLOWJOB (USA)
+URL: http://u.vipl.one/high/hc6s5fzmde/1687.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
+--------------------------------------------------
+Name: EROLUXE ORGY (USA)
+URL: http://u.vipl.one/high/hc6s5fzmde/1699.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u
 --------------------------------------------------
@@ -611,11 +611,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: 🚨Sathiya TV Srilanka 📡📺
 URL: https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: 🚨 Willow USA SPORT HD 🚨📡📺
-URL: https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -1339,11 +1334,6 @@ URL: http://107.175.220.4:11799/go_sportsplus/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: NOW SPORTS PRIME
-URL: http://hls.168.us.kg/u/630/master.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: MuxIP-SportsFirst TV🎯
 URL: https://d2396zb8liu8hs.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-SportsFirstTV/409.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1357,11 +1347,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: A SPOR
 URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 Logo: https://i.ibb.co/xSjB51j/aspor.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Shol Sports
-URL: https://kbl-stream.movie.af/live/smil:solhetv.smil/chunklist_w2030971013_b1628000.m3u8
-Logo: https://i.ibb.co/3WmLjwG/trtspor22c.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: PSN 1 Sports
@@ -1713,6 +1698,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: Zee Anmol Cinema 2
 URL: http://110.39.27.47:8001/play/a03w/index.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/0/09/Zee_Anmol_Cinema_2_logo_2024.png/revision/latest/scale-to-width-down/300?cb=20240421093954
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Star Gold
+URL: http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: B4U Movies
@@ -2069,6 +2059,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Disney Junior (576p)
 URL: http://161.248.38.40:8000/play/a068/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Gubbare (1080p)
+URL: https://epiconvh.akamaized.net/live/gubbare/master.m3u8
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GUBBARE/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Nick Jr. (576p)
@@ -3926,6 +3921,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: Madani TV
 URL: https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8
 Logo: https://i.ibb.co/7jrjkW1/20240813-112630.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Makkah TV
+URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+Logo: https://i.ibb.co/TtHtGkW/20240803-172601.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: EWTN TV
