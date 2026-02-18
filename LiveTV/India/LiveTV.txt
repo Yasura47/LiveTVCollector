@@ -229,11 +229,6 @@ URL: https://cdn-4.pishow.tv/live/241/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: PTV HOME
-URL: http://163.61.227.29:8000/play/a05k/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Hum Masala
 URL: http://163.61.227.29:8000/play/a02g/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -584,6 +579,11 @@ URL: https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Azan TV 🎯 📡
+URL: https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে
 URL: https://stream.spicefmbd.com/stream.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -601,11 +601,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: Geo Super
 URL: https://tigerhub-bd.vercel.app/Sports-zone/Geo-Super/tracks-v1a1/mono.ts.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: T Sports T20 World Cup
-URL: https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -636,11 +631,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: 🚨Sathiya TV Srilanka 📡📺
 URL: https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: 🚨 Willow USA SPORT HD 🚨📡📺
-URL: https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -1354,11 +1344,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: Football
-Name: Shoel Sports
-URL: https://kbl-stream.movie.af/live/smil:solhetv.smil/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Astro SPORTS Primier
 URL: http://107.175.220.4:11799/go_assp1/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1387,11 +1372,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: A SPOR
 URL: https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8
 Logo: https://i.ibb.co/xSjB51j/aspor.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Shol Sports
-URL: https://kbl-stream.movie.af/live/smil:solhetv.smil/chunklist_w2030971013_b1628000.m3u8
-Logo: https://i.ibb.co/3WmLjwG/trtspor22c.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: PSN 1 Sports
@@ -1814,9 +1794,14 @@ URL: https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=s7AaNd
 Logo: https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Madani Tv
-URL: https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8
+Name: Noor Tv
+URL: https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: QURAN
+URL: http://m.live.net.sa:1935/live/quran/playlist.m3u8
+Logo: https://i.ibb.co/GnfgKbs/alquran.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: BAHRAIN QURAN
@@ -1861,6 +1846,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: AL SUNNAH TV
 URL: https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8
+Logo: https://i.ibb.co/MctgDQ8/sunnah.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: AL SUNNAH TV
+URL: http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 Logo: https://i.ibb.co/MctgDQ8/sunnah.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -2024,6 +2014,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: KIDS
+Name: Tom & Jarry
+URL: https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+Logo: h
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Pogo
 URL: https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg
@@ -3953,9 +3948,14 @@ URL: https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8
 Logo: https://i.ibb.co/598TYnC/20240827-092020.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Madani TV
-URL: https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8
-Logo: https://i.ibb.co/7jrjkW1/20240813-112630.png
+Name: Makkah TV
+URL: https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8
+Logo: https://i.ibb.co/TtHtGkW/20240803-172601.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: AL Sunnah TV
+URL: http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1
+Logo: https://i.ibb.co/rtkWYHV/20240827-092043.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: EWTN TV

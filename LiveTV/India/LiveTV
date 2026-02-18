@@ -348,10 +348,16 @@
     "img": "https://i.ibb.co/598TYnC/20240827-092020.png"
   },
   {
-    "name": "Madani TV",
+    "name": "Makkah TV",
     "type": "Relagion Channel",
-    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/1.m3u8",
-    "img": "https://i.ibb.co/7jrjkW1/20240813-112630.png"
+    "url": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/makkahtv.stream/playlist.m3u8",
+    "img": "https://i.ibb.co/TtHtGkW/20240803-172601.png"
+  },
+  {
+    "name": "AL Sunnah TV",
+    "type": "Relagion Channel",
+    "url": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1",
+    "img": "https://i.ibb.co/rtkWYHV/20240827-092043.png"
   },
   {
     "name": "EWTN TV",
@@ -774,6 +780,12 @@
     "img": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SAFARI_TV/images/LOGO_HD/image.png"
   },
   {
+    "name": "Tom & Jarry",
+    "type": "KIDS",
+    "url": "https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8",
+    "img": "h"
+  },
+  {
     "name": "Pogo",
     "type": "KIDS",
     "url": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8",
@@ -1098,12 +1110,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "PTV HOME",
-    "type": "",
-    "url": "http://163.61.227.29:8000/play/a05k/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Hum Masala",
     "type": "",
     "url": "http://163.61.227.29:8000/play/a02g/index.m3u8",
@@ -1338,6 +1344,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Azan TV 🎯 📡",
+    "type": "Cricket 🏏",
+    "url": "https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "স্পাইস FM Radio মোবাইল লক করা অবস্থায়ও চলতে থাকবে",
     "type": "Cricket 🏏",
     "url": "https://stream.spicefmbd.com/stream.m3u8",
@@ -1359,12 +1371,6 @@
     "name": "Geo Super",
     "type": "Cricket 🏏",
     "url": "https://tigerhub-bd.vercel.app/Sports-zone/Geo-Super/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "T Sports T20 World Cup",
-    "type": "Cricket 🏏",
-    "url": "https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1401,12 +1407,6 @@
     "name": "🚨Sathiya TV Srilanka 📡📺",
     "type": "Cricket 🏏",
     "url": "https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "🚨 Willow USA SPORT HD 🚨📡📺",
-    "type": "Cricket 🏏",
-    "url": "https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1452,12 +1452,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Shoel Sports",
-    "type": "Football",
-    "url": "https://kbl-stream.movie.af/live/smil:solhetv.smil/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Astro SPORTS Primier",
     "type": "Football",
     "url": "http://107.175.220.4:11799/go_assp1/playlist.m3u8",
@@ -1492,12 +1486,6 @@
     "type": "Football",
     "url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_480p.m3u8",
     "img": "https://i.ibb.co/xSjB51j/aspor.png"
-  },
-  {
-    "name": "Shol Sports",
-    "type": "Football",
-    "url": "https://kbl-stream.movie.af/live/smil:solhetv.smil/chunklist_w2030971013_b1628000.m3u8",
-    "img": "https://i.ibb.co/3WmLjwG/trtspor22c.png"
   },
   {
     "name": "PSN 1 Sports",
@@ -2040,10 +2028,16 @@
     "img": "https://images-na.ssl-images-amazon.com/images/I/71CywdrFaZL.png"
   },
   {
-    "name": "Madani Tv",
+    "name": "Noor Tv",
     "type": "ISLAMIC CHANNELS",
-    "url": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/d3e49b76-ac06-4689-a641-9200445b647f/master.m3u8",
+    "url": "https://cdn.bestream.io:19360/elfaro4/elfaro4.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "QURAN",
+    "type": "ISLAMIC CHANNELS",
+    "url": "http://m.live.net.sa:1935/live/quran/playlist.m3u8",
+    "img": "https://i.ibb.co/GnfgKbs/alquran.png"
   },
   {
     "name": "BAHRAIN QURAN",
@@ -2097,6 +2091,12 @@
     "name": "AL SUNNAH TV",
     "type": "ISLAMIC CHANNELS",
     "url": "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8",
+    "img": "https://i.ibb.co/MctgDQ8/sunnah.png"
+  },
+  {
+    "name": "AL SUNNAH TV",
+    "type": "ISLAMIC CHANNELS",
+    "url": "http://m.live.net.sa:1935/live/sunnah/playlist.m3u8",
     "img": "https://i.ibb.co/MctgDQ8/sunnah.png"
   },
   {
