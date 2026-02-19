@@ -194,6 +194,11 @@ URL: http://163.61.227.29:8000/play/a01i/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: DISCOVERY TURBO
+URL: http://163.61.227.29:8000/play/a01w/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: National Geographic
 URL: http://151.80.18.177:86/National_Geo_HD/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -226,6 +231,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: ENTER10 BANGLA
 URL: https://cdn-4.pishow.tv/live/241/master.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: PTV HOME
+URL: http://163.61.227.29:8000/play/a05k/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -552,7 +562,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: Cooking;Lifestyle
-Name: Food Food
+Name: Food Food (576p)
 URL: http://45.148.145.57/IN_FOODFOOD/index.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/Food_Food.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
@@ -564,11 +574,6 @@ URL: https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Live Quran TV 🎯 📡
-URL: https://live.kwikmotion.com/sharjahtvquranlive/shqurantv.smil/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: WAZ TV 🎯 📡
 URL: https://tplay.live/originals/ilm-tv/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -576,11 +581,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: WAZ TV 🎯 📡Mizanur Rahman Azhari Waz
 URL: https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Azan TV 🎯 📡
-URL: https://dbcanada.sonarbanglatv.com/azantv/atv/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -601,6 +601,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: Geo Super
 URL: https://tigerhub-bd.vercel.app/Sports-zone/Geo-Super/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: T Sports T20 World Cup
+URL: https://satoshi-cors.herokuapp.com/http://103.96.235.18:9090/sports1/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -631,6 +636,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: 🚨Sathiya TV Srilanka 📡📺
 URL: https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: 🚨 Willow USA SPORT HD 🚨📡📺
+URL: https://crichd.workspace-sultanarabi161.workers.dev/live/willowusa.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -693,7 +703,7 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: Culture;Entertainment
-Name: Jaya TV
+Name: Jaya TV (360p)
 URL: http://198.27.83.207:2550/JAYA_TV_SD/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_JAYA_TV/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
@@ -923,6 +933,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Colors Tamil (720p)
 URL: http://15.235.144.106:14052
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Colors Tamil HD (360p)
+URL: http://198.27.83.207:2550/COLORS_TAMIL_SD/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_COLORS_TAMIL/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1191,7 +1206,7 @@ URL: http://103.78.149.54:8000/play/a00r/index.m3u8
 Logo: https://i.imgur.com/H1jhHDl.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Star Vijay
+Name: Star Vijay HD (360p)
 URL: http://198.27.83.207:8888/STAR_VIJAY_SD/index.m3u8
 Logo: https://i.imgur.com/dZtJHAe.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
@@ -1216,18 +1231,13 @@ URL: https://stream.galaxyott.live/live/subintv/index.m3u8
 Logo: https://jiotvimages.cdn.jio.com/dare_images/images/subintvtamil.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Sun Bangla (576p)
-URL: http://103.182.170.32:8888/play/a01v
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_BANGLA/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
 Name: Sun Marathi (576p)
 URL: http://103.78.149.54:8000/play/a007/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MARATHI/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Sun TV
-URL: http://198.27.83.207:2550/SUN_TV_SD/index.m3u8
+Name: Sun TV (576p)
+URL: http://103.229.254.25:7001/play/a06x/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_TV/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1239,11 +1249,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Surya TV (1080p)
 URL: http://103.229.254.25:7001/play/a0dq/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_HD/images/LOGO_HD/image.png
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Surya TV SD (1080p)
-URL: https://livestream10.sunnxt.com/DolbyVision/SuryaTV_HDR/SuryaTV_HDR_Endpoints/SuryaTV-HDR10-IN-index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_TV/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Swantham (576p)
@@ -1306,9 +1311,9 @@ URL: http://161.248.38.40:8000/play/a0at/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_PUNJABI/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Zee Tamil
+Name: Zee Tamil HD (360p)
 URL: http://198.27.83.207:8888/ZEE_TAMIL_SD/index.m3u8
-Logo: https://i.imgur.com/KwTVqSe.png
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TAMIL_HD/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Zee TV (576p)
@@ -1396,11 +1401,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: Bein Sports 1🎯
 URL: https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Sharjah Sports 🎯
-URL: https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4sportspublish/smc4tv_720p/chunks.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -1809,11 +1809,6 @@ URL: https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3
 Logo: https://i.ibb.co/cygNtwH/bahrain-quaran.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: QURAN RADIOTV SMC
-URL: https://live.kwikmotion.com/smcquranlive/quranradiolive/playlist.m3u8
-Logo: https://i.ibb.co/2qdGPCh/Sharjahtvquran.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: AL QAMAR
 URL: https://streamer3.premio.link/alqamar/playlist.m3u8
 Logo: https://i.ibb.co/dQtMFVT/qamar.jpg
@@ -1980,11 +1975,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: Infotainment Channels
-Name: Discovery HD
-URL: https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Sochi 24 HD 🇷🇺
 URL: http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -2384,9 +2374,9 @@ URL: https://cdn-3.pishow.tv/live/1530/master.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: KTV
+Name: KTV HD (360p)
 URL: http://198.27.83.207:2550/KTV_SD/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KTV/images/LOGO_HD/image.png
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KTV_HD/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Maha Movie (576p)
@@ -2738,7 +2728,7 @@ URL: https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/maste
 Logo: https://i.imgur.com/mMbntB5.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Sun Music
+Name: Sun Music (360p)
 URL: http://198.27.83.207:2550/SUN_MUSIC_SD/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SUN_MUSIC/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
@@ -2838,6 +2828,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: Iran International(EN) 🛜
 URL: https://dev-live.livetvstream.co.uk/LS-63503-4/chunklist_b1196000.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: Aljazeera HD Backup 🛜v
+URL: https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
+Logo: https://i.ibb.co/CzCnTHV/aljazeera-home-tv.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: Breaking News
@@ -3049,9 +3044,9 @@ URL: https://stream1.livebox.co.in/VCAREhls/live.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_EXPRESS/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Bharat Samachar TV (480p)
+Name: Bharat Samachar (480p)
 URL: https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
-Logo: https://i.imgur.com/x5f8E3K.png
+Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_BHARAT_SAMACHAR/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Big Tv
@@ -3105,7 +3100,7 @@ Logo: https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Ch
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: DD News HD (1080p)
-URL: http://103.78.149.54:8000/play/a02f/index.m3u8
+URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
 Logo: https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -3859,7 +3854,7 @@ URL: http://103.78.149.54:8000/play/a03m/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_VTV_GUJARATI/images/LOGO_HD/image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Zee 24 Ghanta
+Name: Zee 24 Ghanta (576p)
 URL: http://45.148.145.57/IN_Zee24Ghanta/index.m3u8
 Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_24_GHANTA/images/LOGO_HD/LOGO_HD_image.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
