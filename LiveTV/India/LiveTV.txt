@@ -50,11 +50,6 @@ URL: https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-Name: Global TV
-URL: http://sm-monirul.top/AyNa/play.php?id=0ac6af3d-acce-4d9d-9ce5-32d4b53f9326&e=.m3u8
-Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Global%20Television%20Bangladesh.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: Srk Tv
 URL: https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -117,22 +112,22 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Group: Business
 Name: CNBC Awaaz (1080p)
 URL: https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/master.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_AWAAZ/images/LOGO_HD/image.png
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/CNBCAwaaz.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: CNBC Bajar (1080p)
 URL: https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/master.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_BAJAR/images/LOGO_HD/image.png
+Logo: https://dtil.tmsimg.com/assets/GNLZZGG00216V90.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: CNBC TV18 (1080p)
 URL: https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_TV18/images/LOGO_HD/image.png
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: CNBC TV18 Prime HD (1080p)
 URL: https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
-Logo: https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_CNBC_PRIME_HD/images/LOGO_HD/LOGO_HD_image.png
+Logo: https://jiotvimages.cdn.jio.com/dare_images/images/CNBCTV18Prime.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: ET Now (720p)
@@ -534,11 +529,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Captain (576p)
 URL: https://mumt01.tangotv.in/CAPTAIN/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/GNLZZGG0029CNNM.png?lock=720x540
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: Colors (576p)
-URL: http://103.229.254.25:7001/play/a077/index.m3u8
-Logo: https://i.imgur.com/M8uCJ0D.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Colors Bangla HD (1080p)
@@ -994,6 +984,11 @@ URL: http://cdntv.online/low/9mlxywika2/56.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Russia Football 3 HD
+URL: http://cdntv.online/low/9mlxywika2/57.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Real Madrid tv Football
 URL: https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1285,6 +1280,11 @@ URL: http://103.229.254.25:7001/play/a09z/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
+Name: Colors
+URL: http://103.229.254.25:7001/play/a077/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
 Name: Zee TV
 URL: http://103.161.153.165:8000/play/a01j/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png
@@ -1345,16 +1345,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 Name: And Pictures HD
 URL: http://103.229.254.25:7001/play/a033/index.m3u8
 Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: UTV Gold
-URL: http://103.161.153.165:8000/play/a03c/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: UTV Classic
-URL: http://103.161.153.165:8000/play/a03d/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 Name: UTV Pictures
@@ -1436,11 +1426,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: IPL 2026
-Name: IPL 2026
-URL: http://sm-monirul.top/AyNa/play.php?id=f064e069-8861-43d5-ac79-828b029a50a1&e=.m3u8
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: IPL 2026
 URL: http://stvlive.net:8080/sonyten5/index.m3u8
 Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPkLNzYmE3iWoT0RIUPh5dPx392smbo8bbbTfkUy2nWw&s=10
@@ -1700,16 +1685,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 
 Group: Kids
-Name: BBC Cbeebies
-URL: https://live20.bozztv.com/giatvplayout7/giatv-209622/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Cartoon Network
-URL: https://live20.bozztv.com/giatvplayout7/giatv-209624/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
 Name: PBS Kids
 URL: https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -1806,11 +1781,9 @@ URL: https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.ts.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
-
-Group: Kolkata Bangla Music
-Name: Dhoom Music
-URL: http://103.175.73.12:8080/live/378/378_0.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
+Name: Colors Bangla Cinema
+URL: http://103.229.254.25:7001/play/a078/index.m3u8
+Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
 
@@ -1921,11 +1894,6 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: &pictures HD (1080p)
 URL: http://103.161.153.165:8000/play/a05u/index.m3u8
 Logo: https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540
-Source: https://iptv-org.github.io/iptv/countries/in.m3u
---------------------------------------------------
-Name: &prive HD (1080p)
-URL: http://103.161.153.165:8000/play/a05m/index.m3u8
-Logo: https://dtil.tmsimg.com/assets/GNLZZGG0022J69M.png?lock=720x540
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: &TV (576p)
@@ -2531,6 +2499,11 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: T Global News (Canada)
 URL: https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
+--------------------------------------------------
+Name: BBC News
+URL: https://ythls.armelin.one/channel/UCelk6aHijZq-GJBBB9YpReA.m3u8?v=1
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
@@ -4112,16 +4085,6 @@ Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_
 --------------------------------------------------
 Name: DD Sports 2.0
 URL: https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Eurosports HD
-URL: http://103.161.153.165:8000/play/a01b/index.m3u8
-Logo: https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png
-Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
---------------------------------------------------
-Name: Bein Sports 1
-URL: http://103.161.153.165:8000/play/a03z/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/FunctionError/PiratesTv/main/combined_playlist.m3u
 --------------------------------------------------
